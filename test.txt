@@ -1,0 +1,10 @@
+20220000
+my_name
+hannam
+computer_science
+Dajeon
+20240000
+your_name
+chungnam
+civil_engineering
+Chungju
